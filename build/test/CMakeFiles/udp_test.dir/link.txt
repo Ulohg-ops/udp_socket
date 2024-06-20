@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/udp_test.dir/UdpTest.cpp.o CMakeFiles/udp_test.dir/__/src/UdpClient.cpp.o CMakeFiles/udp_test.dir/__/src/UdpServer.cpp.o  -o udp_test  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

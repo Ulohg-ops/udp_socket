@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/UdpClient.h
+iostream
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+
+../include/UdpServer.h
+iostream
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+
+/home/ulohg/Desktop/my_project/src/main.cpp
+UdpClient.h
+/home/ulohg/Desktop/my_project/src/UdpClient.h
+UdpServer.h
+/home/ulohg/Desktop/my_project/src/UdpServer.h
+

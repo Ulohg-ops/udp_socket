@@ -1,0 +1,8 @@
+/home/ulohg/Desktop/my_project/build/CMakeFiles/rebuild_cache.dir
+/home/ulohg/Desktop/my_project/build/CMakeFiles/edit_cache.dir
+/home/ulohg/Desktop/my_project/build/src/CMakeFiles/rebuild_cache.dir
+/home/ulohg/Desktop/my_project/build/src/CMakeFiles/edit_cache.dir
+/home/ulohg/Desktop/my_project/build/src/CMakeFiles/udp_example.dir
+/home/ulohg/Desktop/my_project/build/test/CMakeFiles/rebuild_cache.dir
+/home/ulohg/Desktop/my_project/build/test/CMakeFiles/edit_cache.dir
+/home/ulohg/Desktop/my_project/build/test/CMakeFiles/udp_test.dir
