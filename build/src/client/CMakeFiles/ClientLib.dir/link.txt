@@ -1,0 +1,2 @@
+/usr/bin/ar qc libClientLib.a CMakeFiles/ClientLib.dir/UdpClient.cpp.o
+/usr/bin/ranlib libClientLib.a

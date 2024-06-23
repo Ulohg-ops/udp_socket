@@ -1,4 +1,4 @@
-# Install script for directory: /home/ulohg/Desktop/my_project/src
+# Install script for directory: /home/ulohg/Desktop/udp_socket/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,17 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
+endif()
+
+# Set default install directory permissions.
+if(NOT DEFINED CMAKE_OBJDUMP)
+  set(CMAKE_OBJDUMP "/usr/bin/objdump")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/home/ulohg/Desktop/udp_socket/build/src/client/cmake_install.cmake")
+  include("/home/ulohg/Desktop/udp_socket/build/src/server/cmake_install.cmake")
+
 endif()
 

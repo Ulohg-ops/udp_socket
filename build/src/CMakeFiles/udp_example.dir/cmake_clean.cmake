@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/udp_example.dir/UdpClient.cpp.o"
+  "CMakeFiles/udp_example.dir/UdpClient.cpp.o.d"
   "CMakeFiles/udp_example.dir/UdpServer.cpp.o"
+  "CMakeFiles/udp_example.dir/UdpServer.cpp.o.d"
   "CMakeFiles/udp_example.dir/main.cpp.o"
+  "CMakeFiles/udp_example.dir/main.cpp.o.d"
   "udp_example"
   "udp_example.pdb"
 )

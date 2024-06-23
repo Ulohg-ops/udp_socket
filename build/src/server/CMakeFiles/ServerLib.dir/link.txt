@@ -1,0 +1,2 @@
+/usr/bin/ar qc libServerLib.a CMakeFiles/ServerLib.dir/UdpServer.cpp.o
+/usr/bin/ranlib libServerLib.a

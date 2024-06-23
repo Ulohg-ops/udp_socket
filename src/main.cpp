@@ -21,7 +21,6 @@ int main() {
 
     client.receiveMessage();
 
-    printf("dasasddaddcccc\n");
     // 关闭套接字
     client.closeSocket();
     server.closeSocket();
